@@ -1,3 +1,17 @@
 # Crowdfunding Platform Powered by Ethereum Blockchain
 
-Crowdfunding has disrupted the way of financing and allowed the startups to raise funds without much hustle and bureaucracy. In the existing model, Pool of people contribute small amounts of money towards a project or cause and expect some financial or non-financial returns. A crowdfunding platform takes a commission and matches the needs and expectations of funders and fundraisers. Blockchain technology is a decentralized ledger, more efficient, safe and tamper-proof system of nodes in connection. Introduction of blockchain in crowdfunding will make it more reliable, transparent, trusted, decentralized, cost-efficient and convenient. A crowdfunding platform which was acting as an intermediary before will only provide the technology and name is its own crypto-currency which will act as a medium of transaction and exchange. Fundraisers will generate their own currency and everyone on the network will be notified about the project. Funders will buy this crypto- currency to claim its share in the project and can withdraw any time by selling the currency and losing the share in a project or transferring it to another project. Blockchain can further improve this unique and contemporary way of raising funds by making out more reliable and transparent.
+This project reimagines crowdfunding by integrating blockchain technology to enhance reliability, transparency, and efficiency. Traditional crowdfunding platforms often act as intermediaries, taking commissions and managing transactions between funders and fundraisers. By leveraging blockchain, this platform transforms the crowdfunding experience into a decentralized, transparent, and cost-efficient system.
+
+**Key Features:**
+
+**Decentralized Ledger:** Utilizes blockchain technology to create a decentralized, secure, and tamper-proof ledger for all transactions, eliminating the need for a central intermediary.
+
+**Custom Cryptocurrency:** Fundraisers can generate their own cryptocurrency for each project. This cryptocurrency acts as a medium of exchange, allowing funders to buy, sell, or transfer their shares in projects.
+
+**Enhanced Transparency:** Blockchain ensures that all transactions and project updates are visible and immutable, providing a clear and trustworthy record for all participants.
+
+**Cost-Efficiency:** Reduces overhead and administrative costs associated with traditional crowdfunding platforms by operating on a decentralized model.
+
+**Flexible Transactions:** Funders can easily withdraw or transfer their investments by trading the project-specific cryptocurrency, offering more flexibility compared to conventional funding models.
+
+This platform leverages blockchain to streamline the crowdfunding process, making it more transparent and accessible, while reducing costs and improving overall trust.
